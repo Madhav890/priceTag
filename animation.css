@@ -1,0 +1,74 @@
+/* 
+.img-card-animi{
+    display: none;
+    animation-name: poping;
+    animation-duration: 2s;
+    animation-delay: .1s;
+}
+  
+@keyframes poping {
+    from {scale: 0.5;}
+    to {scale: 1;}
+}
+
+.img-card-content-animi{
+    animation-name: left-right;
+    animation-duration: 2.3s;
+}
+
+@keyframes left-right {
+    0% {margin-left: 50%; opacity: 0;}
+    100% {margin-left: 0; opacity: 1;}
+}
+
+.img-card-content-btn-animi{
+    animation-name: downloadBtn;
+    animation-duration: 3s;
+}
+
+@keyframes downloadBtn {
+    0% {opacity: 0;}
+    60% {opacity: 0;}
+    100% {opacity: 1;}
+}
+
+.middle-sec-icon-animi{
+    animation-name: midsecicon;
+    animation-duration: 3s;
+}
+
+@keyframes midsecicon {
+    0% {scale: 0;}
+    100% {scale: 1;}
+}
+
+.middle-sec-content-animi{
+    animation-name: midseccontent;
+    animation-duration: 3s;
+}
+
+@keyframes midseccontent {
+    0% {opacity: 0;}
+    75% {opacity: 0;}
+    100% {opacity: 1;}
+}
+
+.current-feature-animi{
+    animation-name: current-feature;
+    animation-duration: 2s;
+}
+
+@keyframes current-feature {
+    0% {opacity: 0;}
+    100% {opacity: 1; transform: rotatey(360deg);}
+}
+
+.bottom-white-card-left-animi{
+    animation-name: mobile-card-l;
+    animation-duration: 2s;
+}
+
+@keyframes mobile-card-l {
+    0% {opacity: 0; scale: 0.7;}
+    100% {opacity: 1; scale: 1;}
+} */
